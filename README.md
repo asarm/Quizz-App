@@ -16,4 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 "# Quizz-App"
 
-<video src="screenshots/record.mp4" autoplay></video>
+<video  width="320" height="240" autoplay>
+<source src="screenshots/record.mp4" type="video/mp4">
+</video>
